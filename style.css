@@ -1,0 +1,32 @@
+
+     table, th, td {
+        border: 1px solid black;
+      }
+
+.container {
+width: 100%;
+text-align: center;
+height: 100px;
+font-size: 40px;
+border-style: solid;
+border-width: 2px;
+background-color: crimson;
+justify-content: center;
+}
+
+.tablestyle {
+ width: 100%;
+ border-style: solid;
+ border-width: 1px;
+}
+
+.tablecell{
+width: 33%;
+height: 50px;
+
+}
+.abc{
+background-color: rgb(78, 37, 241);
+border-style: double;
+}
+
